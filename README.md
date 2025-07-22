@@ -2,3 +2,9 @@ Conducted a classification project on cow milk quality using a Kaggle dataset of
 
 Implemented a backpropagation algorithm using 7 input nodes corresponding to each variable, and 3 output nodes representing the milk quality classes. Binary features (taste, smell, fat, turbidity) were encoded as 0 or 1 based on optimal conditions, while pH and temperature were used as continuous values.
 
+Team:
+Jasmine Adlina Hapsari 
+Anis Widya Astuti
+Wisnu Imam Satrio
+Rizky Akbar Setiawan
+Robby Setyanto
